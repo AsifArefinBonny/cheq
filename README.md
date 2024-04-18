@@ -117,7 +117,7 @@ I used virtual environment and to setting up the virtual environment the below-m
 ## #Screendump
 
 Video file is here ([screendump.mp4](https://github.com/AsifArefinBonny/cheq/blob/main/screendump.mp4))
-![image](./screendump.gif)
+![image](screendump.gif)
 
 ## #Conclusion
 
