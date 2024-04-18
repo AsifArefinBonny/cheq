@@ -109,7 +109,7 @@ I used virtual environment and to setting up the virtual environment the below-m
 8. **Closing the browser**:
    Finally, the script closes the Selenium webdriver.
 
-**The key aspects of these scripts that follow the provided guidelines are:**
+**_The key aspects of these scripts that follow the provided guidelines are:_**
 
 1. It does not use `ChromeOptions`, `FirefoxOptions`, or `KeyboardShortcuts - KeyEvents` to handle the PDF download, as specified in the instructions.
 2. This script demonstrates a programmatic approach to automating the PDF download process and not a GUI based tool following the guidelines provided in the instructions.
