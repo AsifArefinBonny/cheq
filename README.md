@@ -29,7 +29,7 @@ But I could only successfully make the script with Utilizing the requests librar
 
 And another instruction was not o use any GUI based tool. So I used selenium with python.
 
-**_ Note: Main branch is the the final one. I used the draft branch for development. _**
+***Note: Main branch is the the final one. I used the draft branch for development.***
 
 ## #Prerequisites
 
