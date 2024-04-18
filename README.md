@@ -23,8 +23,8 @@ I've investigated and found some other possible ways to do that and some of the 
 
 But I could only successfully make the script with Utilizing the requests library & Using the execute_script method of Selenium.
 
-1. The script with Utilizing the requests library:
-2. The script using the execute_script method of Selenium:
+1. The script with Utilizing the requests library: (./script-JS.py)
+2. The script using the execute_script method of Selenium: (./script-request.py)
 
 And another instruction was not o use any GUI based tool. So I used selenium with python.
 
@@ -38,14 +38,14 @@ And another instruction was not o use any GUI based tool. So I used selenium wit
 
 I used virtual environment and to setting up the virtual environment the below-mentioned commands needs to be run:
 
-1. pip3 install pipenv
-2. pipenv shell (It should launch a virtual environment & create a Pipfile)
-3. pipenv install selenium (It'll create Pipfile.lock)
-4. python script-request.py (The browser should open with the URL and should start executing the script automatically)
+1. `pip3 install pipenv`
+2. `pipenv shell` (It should launch a virtual environment & create a Pipfile)
+3. `pipenv install selenium` (It'll create Pipfile.lock)
+4. `python script-request.py` (The browser should open with the URL and should start executing the script automatically)
 
 ## Description of the project
 
-- ### Script implemented with utilizing the requests library
+- ## **_Script implemented with utilizing the requests library_**
 
 1. **Reading the URL from the config file**:
 
@@ -81,7 +81,7 @@ I used virtual environment and to setting up the virtual environment the below-m
 8. **Closing the browser**:
    - Finally, the script closes the Selenium webdriver.
 
-- ### Script implemented using the execute_script method of Selenium:
+- ## **\*Script implemented using the execute_script method of Selenium:\*\***
 
 1. **Reading the URL from the config file**:
    The script starts by reading the URL of the webpage from a configuration file named `config.ini`. This allows the URL to be stored separately and easily modified if needed.
