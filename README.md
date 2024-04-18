@@ -120,9 +120,9 @@ I used virtual environment and to setting up the virtual environment the below-m
 Video file is here ([screendump.mp4](https://github.com/AsifArefinBonny/cheq/blob/main/screendump.mp4))
 ![image](screendump.gif)
 
-
 ## #Why am I interested in joining CHEQ by Cantaloupe
-- The PDF is here: 
+
+- Here is the ([PDF](https://github.com/AsifArefinBonny/cheq/blob/main/Why%20am%20I%20interested%20in%20joining%20CHEQ%20by%20Cantaloupe.pdf))
 
 ## #Conclusion
 
