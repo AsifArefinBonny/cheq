@@ -23,8 +23,8 @@ I've investigated and found some other possible ways to do that and some of the 
 
 But I could only successfully make the script with Utilizing the requests library & Using the execute_script method of Selenium.
 
-1. The script with Utilizing the requests library: (./script-JS.py)
-2. The script using the execute_script method of Selenium: (./script-request.py)
+1. The script with Utilizing the requests library: ([./script-request.py](https://github.com/AsifArefinBonny/cheq/blob/main/script-request.py))
+2. The script using the execute_script method of Selenium: ([./script-JS.py](https://github.com/AsifArefinBonny/cheq/blob/main/script-JS.py))
 
 And another instruction was not o use any GUI based tool. So I used selenium with python.
 
@@ -108,7 +108,6 @@ I used virtual environment and to setting up the virtual environment the below-m
 
 8. **Closing the browser**:
    Finally, the script closes the Selenium webdriver.
-
 
 **The key aspects of these scripts that follow the provided guidelines are:**
 
